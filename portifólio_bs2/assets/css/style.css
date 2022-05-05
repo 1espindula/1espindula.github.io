@@ -1,0 +1,69 @@
+.cabecalio{
+    background-color: Cornsilk
+}
+
+.perfil img{
+    max-width: 14rem;
+    border-radius: 10%;
+
+}
+.perfil{
+    background-color: BlanchedAlmond;
+    height: 90vh;
+}
+.contato{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: NavajoWhite;
+    }
+
+.imgLin{
+    width: 80px;
+    height:80px;
+    margin-bottom: -10px;
+
+}
+ .imgGit{
+    width: 80px;
+    height:80px;
+    margin-bottom: -10px;
+}
+
+  .imgIns{
+    width: 80px;
+    height:80px;
+    margin-bottom: -10px;
+}
+
+
+
+.display-5{
+    font-size: 30px;
+}
+
+footer{
+    background-color: BurlyWood;
+}
+
+hr{
+    height: 5px;
+    background-color: black;
+}
+
+.trabalho {
+    height: 90vh;
+    background-color: Wheat;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: Wheat;
+    
+}
+
+.trabalho img{
+    width: 200px;
+    height: 200px;
+}  
